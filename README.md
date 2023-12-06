@@ -1,3 +1,4 @@
 # MergeRepo
-<p>ברוכה הבאה לתרגיל <p>
+<p>Wellcome to the exercise</p>
+<h2>❤🧡💛💚💙💜🤎🖤🤍</h2>
 
